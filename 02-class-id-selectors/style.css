@@ -1,0 +1,15 @@
+.oddNumber {
+    background-color: #ffa07a;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
+#first_even_num {
+    color: blue;
+    font-size: 36px;
+}
+#second_even_num {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+
+}
